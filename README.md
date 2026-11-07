@@ -2,8 +2,9 @@
 
 **Part 1**
 
-Green run screenshot: <paste>
+Green run screenshot: ![First Green Run](firstgreenrun.png)
 In one sentence: what event started this run, and who started it?
+The definition in the ci yml file that defined that on push to the main branch kicked off this run. So it was started by me when I commited code to main.
 
 **Part 2**
 
